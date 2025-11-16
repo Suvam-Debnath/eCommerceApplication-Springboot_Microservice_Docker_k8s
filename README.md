@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Microservices Project README</title>
 </head>
 <body>
 
@@ -125,10 +124,6 @@ This project demonstrates a full <strong>🔥 enterprise-grade Microservices Arc
 
 <hr>
 
-<h2>📜 License</h2>
-<p>
-📝 This project is licensed under the <strong>MIT License</strong>.
-</p>
 
 </body>
 </html>
