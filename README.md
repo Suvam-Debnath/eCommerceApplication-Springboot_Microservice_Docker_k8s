@@ -7,6 +7,8 @@
 
 <h1>🚀 Microservices Project – Java | Spring Boot | Spring Cloud | Docker | Kubernetes | GCP</h1>
 
+<img width="1500" height="705" alt="eCom diagram" src="https://github.com/user-attachments/assets/61689b7d-22fd-46e0-a161-52417f789a2d" />
+
 <p>
 This project demonstrates a full <strong>🔥 enterprise-grade Microservices Architecture</strong> built using 
 <strong>Java, Spring Boot, Spring Cloud, OAuth2/Okta, Docker, Kubernetes, CI/CD, and Google Cloud Platform</strong>.
